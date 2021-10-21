@@ -1,6 +1,7 @@
 # Atlanta Restaurant
 
 This is a frontend for restaurant project.
+There is a backend at [here](https://github.com/tonyzhao626/restaurant-backend).
 
 ## Running
 
