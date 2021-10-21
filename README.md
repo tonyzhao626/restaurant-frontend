@@ -1,5 +1,7 @@
 # Atlanta Restaurant
 
+This is a frontend for restaurant project.
+
 ## Running
 
 ```bash
